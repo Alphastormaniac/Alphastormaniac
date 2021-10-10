@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alphastormaniac
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently pursuing my Engineering at NHCE
-- 💞️ I’m looking to collaborate on landing pages
 - 🐱‍👤  Here's my Portfolio: 
 https://pavanswebsite.netlify.app/
 
