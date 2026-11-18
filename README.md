@@ -6,21 +6,29 @@ Media ops specialist becoming an AI Forward Deployed Engineer. Messy workflow in
 
 🔨 **Now:** hardening VectraMail staging — auth + live proof — and prepping JobReport for TestFlight.
 
-## ◆ Shipping now
+![Shipping now](assets/header-shipping.svg)
 
-**VectraMail** — outreach CRM, built like real SaaS: React + TypeScript, Express, Neon Postgres, Neon Managed Auth, Resend. Staging live on Render. Verification + JWT sign-in proven end-to-end. Private repo, under active development.
+### VectraMail
 
-**TapForge** — tools for trades and small businesses, live on Gumroad: [Job Packet](https://tapforge.gumroad.com/l/job-packet) (job reports built on-site, sent from the phone), [Timeline → IRS Mileage Log](https://tapforge.gumroad.com/l/timeline-mileage-log) (Google Timeline → IRS-style log, parsed in the browser), plus an Apple Health PDF report tool and a short-form video system. Everything at [tapforgehq.com](https://tapforgehq.com).
+Outreach CRM, built like real SaaS: **React** + **TypeScript**, **Express**, **Neon Postgres**, **Neon Managed Auth**, **Resend**. Staging live on **Render** — verification + JWT sign-in proven end-to-end. Private repo, under active development.
 
-**JobReport (iOS)** — SwiftUI + SwiftData. Offline-first job-photo reports for trades: before/after photos, signature, PDF out the door. Prototype compiled, running on device. TestFlight prep drafted.
+### TapForge
 
-## ◆ How I work
+Tools for trades and small businesses, live on **Gumroad**: **[Job Packet](https://tapforge.gumroad.com/l/job-packet)** (job reports built on-site, sent from the phone), **[Timeline → IRS Mileage Log](https://tapforge.gumroad.com/l/timeline-mileage-log)** (Google Timeline → IRS-style log, parsed in the browser), plus an **Apple Health** PDF report tool and a short-form video system. Everything at [tapforgehq.com](https://tapforgehq.com).
 
-Account coordination, order management, subtitling pipelines for pooled theatrical clients. Client-facing, deadline-driven. I've seen too many good-looking tools die on contact with real work — so I build for the messy version first, and verify live before claiming anything.
+### JobReport (iOS)
 
-Now: applied AI engineering — LLMs, agents, MCP, evals. Learning by shipping.
+**SwiftUI** + **SwiftData**. Offline-first job-photo reports for trades: before/after photos, signature, PDF out the door. Prototype compiled, running on device. TestFlight prep drafted.
 
-## ◆ Stack
+![How I work](assets/header-how-i-work.svg)
+
+### Client-facing, deadline-driven
+
+Account coordination, order management, subtitling pipelines for pooled theatrical clients. I've seen too many good-looking tools die on contact with real work — so I build for the messy version first, and verify live before claiming anything.
+
+Now: applied AI engineering — **LLMs**, **agents**, **MCP**, **evals**. Learning by shipping.
+
+![Stack](assets/header-stack.svg)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1A38?style=flat-square&logo=typescript&logoColor=C9A86A)
 ![React](https://img.shields.io/badge/React-0D1A38?style=flat-square&logo=react&logoColor=C9A86A)
@@ -35,7 +43,7 @@ Now: applied AI engineering — LLMs, agents, MCP, evals. Learning by shipping.
 ![Resend](https://img.shields.io/badge/Resend-0D1A38?style=flat-square)
 ![Stripe test mode](https://img.shields.io/badge/Stripe-test_mode-0D1A38?style=flat-square&logo=stripe&logoColor=C9A86A)
 
-## ◆ Find me
+![Find me](assets/header-find-me.svg)
 
 [![TapForge website](https://img.shields.io/badge/Website-tapforgehq.com-0D1A38?style=flat-square)](https://tapforgehq.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saipavanc--portfolio.netlify.app-0D1A38?style=flat-square)](https://saipavanc-portfolio.netlify.app/)
