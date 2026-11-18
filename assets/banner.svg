@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1A38"/>
+      <stop offset="1" stop-color="#10141B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9A86A"/>
+      <stop offset="1" stop-color="#D8C193"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="4" fill="url(#gold)"/>
+  <rect y="316" width="1280" height="4" fill="url(#gold)"/>
+  <circle cx="1080" cy="160" r="96" fill="none" stroke="#C9A86A" stroke-opacity="0.45" stroke-width="2"/>
+  <circle cx="1080" cy="160" r="78" fill="none" stroke="#C9A86A" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="1080" y="182" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#C9A86A" letter-spacing="2">TF</text>
+  <rect x="84" y="56" width="64" height="4" fill="#C9A86A"/>
+  <text x="80" y="148" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="800" fill="#F7F4EE" letter-spacing="10">PAVAN</text>
+  <text x="84" y="205" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#C9A86A" letter-spacing="5">I SHIP TOOLS THAT SURVIVE REAL WORK</text>
+  <text x="84" y="248" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#9AA3B2" letter-spacing="4">TOOLS THAT DO THE JOB. NO NOISE.</text>
+</svg>
